@@ -1,5 +1,5 @@
-import fse from "fs-extra";
 import fs from "fs";
+import fse from "fs-extra";
 export const copy = async () => {
   // My code is here 😎
 
